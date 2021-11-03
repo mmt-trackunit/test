@@ -1,5 +1,5 @@
 {
-  "name": "package2",
+  "name": "@mmt-trackunit/package2",
   "version": "1.0.0",
   "description": "The second package",
   "main": "index.js",
